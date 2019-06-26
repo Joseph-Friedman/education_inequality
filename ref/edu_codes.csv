@@ -1,0 +1,21 @@
+edu_yrs,code,description
+0,cprop_0,proportion with 0
+1,cprop_1,proportion of 1-5 in 1
+2,cprop_2,proportion of 2-5 in 2
+3,cprop_3,proportion of 3-5 in 3
+4,cprop_4,proportion of 4-5 in 4
+5,cprop_1_5,proportion with of 1-11 with 1-5
+6,cprop_6,proportion of 6-11 with 6
+7,cprop_7,proportion of 7-11 with 7
+8,cprop_8,proportion of 8-11 with 8
+9,cprop_9,proportion of 9-11 with 9
+10,cprop_10,proportion of 10-11 with 10
+11,cprop_12,proportion of 12-18 with 12
+12,cprop_13,proportion of 13-18 with 13
+13,cprop_14,proportion of 14-18 with 14
+14,cprop_15,proportion of 15-18 with 15
+15,cprop_16,proportion of 16-18 with 16
+16,cprop_17,proportion of 17-18 with 17
+17,cprop_12_18,proportion of 1-18 with 12-18 
+18,mean,average years of schooling
+19,aaid,average absolute individual difference
